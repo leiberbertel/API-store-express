@@ -6,6 +6,5 @@
 
 - NPM - Dependency Handler
 - JavaScript - Language used
-- Express - Tertiary dependency
 - Express.js - Framework used
 - Nodemon - Development server
